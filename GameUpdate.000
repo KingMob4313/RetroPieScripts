@@ -1,0 +1,8 @@
+#!/bin/bash
+# Jan 2023 update - just River City and Ogre Battle
+
+wget -O /home/pi/RetroPie/roms/nes/EDHSBrawl.nes https://github.com/KingMob4313/River-City-Ransom-EDHS/raw/master/RCR_EDHSbrawl.nes
+wget -O /home/pi/RetroPie/roms/snes/OgreBattle-FredHack.smc https://github.com/KingMob4313/OgreBattle-VanityHack/raw/master/OgreBattle-FredHack.smc
+
+# commented out the save file
+# wget -O /home/pi/RetroPie/roms/snes/OgreBattle-FredHack.srm https://github.com/KingMob4313/OgreBattle-VanityHack/raw/master/OgreBattle-FredHack.srm
